@@ -1,0 +1,18 @@
+leftnav:
+- identifier: 5dc10873-f21c-4364-028d-cda99aea1603
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 5143392a-9958-c625-eb40-d9dff505ad1b
+  name: Teaching Note
+  pageRef: /pages/syllabus/teaching-note
+  parent: 5dc10873-f21c-4364-028d-cda99aea1603
+  weight: 20
+- identifier: bfa67e63-5045-6e75-f09d-53767c35285c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 169b630b-eec1-65a7-f546-fb42f1f89ceb
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
